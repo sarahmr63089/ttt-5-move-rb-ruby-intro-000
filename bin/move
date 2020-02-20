@@ -3,9 +3,10 @@
 require_relative '../lib/move.rb'
 
 puts Welcome to Tic Tac Toe!
+puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts Where would you like to go?
 
-puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 
 input = gets
 
