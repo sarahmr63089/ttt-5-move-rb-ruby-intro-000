@@ -9,6 +9,6 @@ input = gets
 
 input_to_index(input)
 
-move(board, index, character = X)
+move(board, index, char = "X")
 
 display_board(board)
